@@ -6,8 +6,6 @@
 </head>
 <body>
 <?php 
-  $color= "red";
-  echo "fuck  ".$color."  zhangming"
   
 ?>
 </body>  
